@@ -11,11 +11,11 @@ This is my README generator homework that uses command-line application to gener
 ## Contribute
 Mela Aliento
 
-##Email
+## Email
 carmelaaliento@gmail.com
 
-##Github user name
+## Github user name
 mela2294
 
-##License
+## License
 MIT
