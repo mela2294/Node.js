@@ -47,16 +47,6 @@ const questions = [
             message: "License?",
             choices: ["agpl", "apache", "mit", "no license"]
         }
-        // {
-        //     type: "input",
-        //     name: "URL deployed application",
-        //     message: "What is the URL deployed application?"
-        // },
-        // {
-        //     type: "input",
-        //     name: "screenshots",
-        //     message: "Any screenshots?"
-        // }
 
     ]
 
