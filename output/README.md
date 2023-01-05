@@ -1,5 +1,5 @@
 
-    # rte    
+    # README generator    
 
     ## Table of Content
     - [Description](#description)
@@ -11,23 +11,23 @@
     - [URL deployed application](#url)
 
     ## Description
-    test
+    This is my readme generator homework that uses command-line application to generate
 
     ## Usage
-    test
+    for homework
 
     ## Installation
-    test
+    1.Get started code 2.install inquirer 8.2.4 3.start typing your code
 
     ## Contribution
-    test
+    me, Mela Aliento
 
     ## Questions
-    test
-    tesr
+    carmelaaliento@gmail.com
+    mela2294
 
     ## License
-    agpl
+    mit
 
     // ## URL deployed application
     // undefined
