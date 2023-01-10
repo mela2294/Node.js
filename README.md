@@ -6,7 +6,7 @@ This is my README generator homework that uses command-line application to gener
 ## Installatin
 - Get the starter code
 - install inquirer 8.2.4
-- start typig your code
+- start typing your code
 
 ## Contribute
 Mela Aliento
@@ -25,5 +25,8 @@ MIT
 
 
 
-https://user-images.githubusercontent.com/115947835/210702333-17e56ae0-51d2-4511-8e7b-dea6e275ff9a.mp4
+
+
+
+https://user-images.githubusercontent.com/115947835/211455947-ed64d9f3-f0ee-498f-b5f3-bf48383cd6eb.mp4
 
