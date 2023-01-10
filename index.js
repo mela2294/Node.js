@@ -1,9 +1,10 @@
-// TODO: Include packages needed for this application
+
+// Packages needed for this application
 const fs = require("fs");
 const inquirer = require("inquirer");
 const generateReadme = require("./util/readmeGenerate.js");
 
-// TODO: Create an array of questions for user input
+// Questions for user input
 const questions = [
 
         {
@@ -52,7 +53,7 @@ const questions = [
 
 
 
-// TODO: Create a function to write README file
+// Functtion to create a README file
 function runQuery() {
     return inquirer.prompt(questions)
         .then((answers) => {
@@ -65,4 +66,5 @@ function runQuery() {
         })
 }
 
+// Function call to initialize app
 runQuery()

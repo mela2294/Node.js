@@ -1,36 +1,22 @@
+# Generate README
+## Table of Content
+- [Description](#description)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Installation](#installation)
+- [Questions and Concern](#questions)
+- [License](#license)
+## Description
+This is mt readme generator homework that uses command line application to generate
+## Usage
+for homework purposes
+## Installation
+get the started code, npm i inquirer@8.2.4
+## Contribution
+none, just me.
+## Questions and Concern
+carmelaaliiento@gmail.com
+mela2294
+## License
+mit
 
-    # README generator    
-
-    ## Table of Content
-    - [Description](#description)
-    - [Usage](#usage)
-    - [Contribution](#contribution)
-    - [Installation](#installation)
-    - [Questions](#questions)
-    - [License](#license)
-    - [URL deployed application](#url)
-
-    ## Description
-    This is my readme generator homework that uses command-line application to generate
-
-    ## Usage
-    for homework
-
-    ## Installation
-    1.Get started code 2.install inquirer 8.2.4 3.start typing your code
-
-    ## Contribution
-    me, Mela Aliento
-
-    ## Questions
-    carmelaaliento@gmail.com
-    mela2294
-
-    ## License
-    mit
-
-    // ## URL deployed application
-    // undefined
-
-
-    
